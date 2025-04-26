@@ -1,5 +1,8 @@
+<!-- Add this style block only if the platform supports HTML inside markdown (like GitHub profile READMEs) -->
+<div style="background-color:#1e2a38; padding: 20px; border-radius: 10px; color: white;">
+
 # 👨‍💻 About Me:
-I'm Tasbiul Islam Rasin — a passionate **Back-End Developer**.
+I'm Tasbiul Islam Rasin — a passionate **Back-End Developer**.  
 Currently grinding hard to master Node.js, MongoDB, and backend architectures. 🚀
 
 # 🌐 Connect with Me:
@@ -14,7 +17,8 @@ Currently grinding hard to master Node.js, MongoDB, and backend architectures. �
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rasinislam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rasinislam&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=rasinislam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=rasinislam&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rasinislam&theme=dark&hide_border=false&layout=compact)
 
+</div>
